@@ -77,7 +77,8 @@ The system predicts whether the entered news article is Real News or Fake News b
 
 **Author**
 
-Nitish Kumar
+**Nitish Kumar**
+B.Tech (Computer Science & Engineering) Student
 
 📧 Email: nitithsingh140@gmail.com
 
